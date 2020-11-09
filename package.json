@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/andrewcmcghie/HW--12-Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/andrewcmcghie/HW--12-Employee-Tracker#readme"
+  "homepage": "https://github.com/andrewcmcghie/HW--12-Employee-Tracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
 }
