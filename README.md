@@ -8,6 +8,8 @@ In simplest terms, a database is a collection of data stored electronically. The
 
 We will begin the unit using GUI's, such as MySQL Workbench, to interface with our databases, but by the end of the unit you should be proficient using the MySQL command line prompt. We will then connect our Node.js servers to our MySQL databases to perform queries based on client requests and return responses accordingly. 
 
+<iframe src="https://drive.google.com/file/d/1AD0FCJKb1zGxCUS-vi0rx0I5lrCPrqil/preview" width="640" height="480"></iframe>
+
 ## Key Topics
 
 * MySQL Workbench
